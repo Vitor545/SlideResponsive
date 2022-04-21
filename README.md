@@ -1,10 +1,10 @@
 ## Projeto SlideResponsive
  
-<h3 align='center'> Um projeto pessoal não faz mal né? </h3>
+<h3 align='center'> 🎠 Um projeto pessoal não faz mal né? </h3>
 
 ## 📄 Contexto
 
-**Quem nunca viu aqueles `carrosséis`?** Nesse projeto eu criei uma aplicação `Front-End` para estudar sobre o uso de carrosséis responsivos.
+**Quem nunca viu aqueles `'carrosséis'`?** Nesse projeto eu criei uma aplicação `Front-End` para estudar sobre o uso de `carrosséis responsivos`.
 
 <br/>
 
