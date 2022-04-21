@@ -62,8 +62,11 @@
 📋 Copie as linhas de código e cole no terminal.
 
 ```bash
-git clone git@github.com:Vitor545/GameOSeuNumeroE.git
-cd GameOSeuNumeroE
+git clone git@github.com:Vitor545/SlideResponsive.git
+cd SlideResponsive
 ```
 
 <br/>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
