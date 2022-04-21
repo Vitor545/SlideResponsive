@@ -36,3 +36,34 @@
 [Going-To Internet](https://www.youtube.com/watch?v=drOgpionKpY)
 
 <br/>
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+<h3 align='center'> 💿 Clonando na sua máquina</h3>
+
+
+## ⬇️ Instalações necessárias
+
+- Para executar com sucesso o projeto é necessário instalar o GIT:
+[GIT](https://git-scm.com/downloads)
+
+<br/>
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+## ▶️ Clonando a aplicação
+
+**Você pode clonar a aplicação usando as linhas de comando abaixo.**
+
+📋 Copie as linhas de código e cole no terminal.
+
+```bash
+git clone git@github.com:Vitor545/GameOSeuNumeroE.git
+cd GameOSeuNumeroE
+```
+
+<br/>
